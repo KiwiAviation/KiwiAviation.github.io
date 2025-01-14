@@ -28,7 +28,7 @@ url: "https://kiwiaviation.github.io" # the base hostname & protocol for your si
 github_username: KiwiAviation
 
 # Build settings
-remote_theme: no-style-please
+remote_theme: riggraz/no-style-please
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
