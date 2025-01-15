@@ -1,5 +1,5 @@
 entries:
-  - title: me
+  - title: Me
     entries:
       - title: email
         url: mailto:kiwiaviation1@gmail.com
@@ -9,8 +9,12 @@ entries:
         url: https://linkedin.com/in/jacob-keller-profile
       - title: resume
         url: /resume
-  - title: projects
+  - title: Projects
     entries:
-      - title: pedestrian detection
+      - title: Pedestrian detection using PCA
         url: /projects/pedestrian_detection
+      - title: Carbon dioxide measurment station
+        url: /projects/co2sensor
+      - title: Custom LED Contoller
+        url: /projects/led_controller
 
