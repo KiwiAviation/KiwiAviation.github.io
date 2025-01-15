@@ -1,0 +1,14 @@
+entries:
+  - title: me
+    entries:
+      - title: email
+        url: mailto:kiwiaviation1@gmail.com
+      - title: github
+        url: https://github.com/kiwiaviation/
+      - title: linkedin
+        url: https://linkedin.com/in/jacob-keller-profile
+  - title: projects
+    entries:
+      - title: Placeholder
+        url: https://google.com
+
