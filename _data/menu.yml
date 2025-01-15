@@ -11,6 +11,6 @@ entries:
         url: /resume
   - title: projects
     entries:
-      - title: Placeholder
-        url: https://google.com
+      - title: pedestrian detection
+        url: /projects/pedestrian_detection
 
