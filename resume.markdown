@@ -3,4 +3,4 @@ layout: page
 title: Resume
 ---
 
-[Resume](pdfs/resume.pdf)
+Check out my <a href="pdfs/resume.pdf" target ="_blank">resume</a>
