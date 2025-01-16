@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Carbon dioxide measurement station
+redirect_from: {{site.url}}/co2
 ---
 August 2024
 
