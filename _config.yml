@@ -14,7 +14,7 @@ plugins:
   - jekyll-seo-tag
 theme_config:
   appearance: "dark"
-  back_home_text: "home" 
+  back_home_text: "Return home" 
   date_format: "%Y-%m-%d" 
   show_description: true 
 
