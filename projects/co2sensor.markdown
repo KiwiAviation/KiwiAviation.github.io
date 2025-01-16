@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Carbon dioxide measurement station
-redirect_from: {{site.url}}/co2
+redirect_from: https://kiwiaviation.github.io/co2
 ---
 August 2024
 

@@ -12,7 +12,6 @@ remote_theme: riggraz/no-style-please
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-redirect-from
 theme_config:
   appearance: "dark"
   back_home_text: "home" 
