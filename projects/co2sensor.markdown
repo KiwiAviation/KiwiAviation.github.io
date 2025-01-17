@@ -14,7 +14,7 @@ August 2024
 *Skills: electronic prototyping, soldering, Python*
 
 ## Details
-[Final co2 sensor device soldered on a circuit board]({{site.url}}/assets/co2-1.jpg)
+![Final co2 sensor device soldered on a circuit board]({{site.url}}/assets/co2-1.jpg)
 *Final co2 sensor device soldered on a circuit board*
 
 ## Resources
