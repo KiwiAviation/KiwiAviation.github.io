@@ -13,6 +13,10 @@ August 2024
 
 *Skills: electronic prototyping, soldering, Python*
 
+## Details
+[Final co2 sensor device soldered on a circuit board]({{site.url}}/assets/co2-1.jpg)
+*Final co2 sensor device soldered on a circuit board*
+
 ## Resources
 This project was closely inspired by the research paper, *"Fluxbots: A Method for Building, Deploying, Collecting and Analyzing Data From an Array of Inexpensive, Autonomous Soil Carbon Flux Chambers", Elizabeth Forbes et al. (June 2023)*. The paper and accompanying source code were extremely useful throughout the design.
 
