@@ -1,0 +1,13 @@
+---
+---
+
+@import "no-style-please";
+@import "colors";
+
+html, body { background: $bg-color; }
+
+body { color: $text-color; }
+
+.w { background-color: $bg-color; }
+
+a { color: $link-color; }
