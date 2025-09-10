@@ -14,5 +14,5 @@ August 2021
 *Skills: electronic prototyping, soldering, C++*
 
 ## Details
-![Final LED controller soldered on a circuit board]({{site.url}}/assets/led-1.jpg)
+![Final LED controller soldered on a circuit board]({{site.url}}/assets/images/led-1.jpg)
 *Final LED controller soldered on a circuit board*
