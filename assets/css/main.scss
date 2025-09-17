@@ -14,7 +14,10 @@ $link-color: #cb4b16; // solarized orange
 // Override colors and font
 html, body { background: $bg-color; }
 
-body { color: $text-color; }
+body { 
+  color: $text-color; 
+  font-family: Verdana, sans-serif;
+}
 
 .w { background-color: $bg-color; }
 
