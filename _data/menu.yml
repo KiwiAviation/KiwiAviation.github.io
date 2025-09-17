@@ -11,7 +11,7 @@ entries:
         url: /resume
   - title: Projects
     entries:
-      - title: ⭐ Internship recap - Formosa EV (2025)
+      - title: ⭐ Internship recap - Formosa EV
         url: /projects/formosa2025
       - title: ⭐ Wireless telemetry (Formula SAE Electric)
         url: /projects/wireless_telemetry

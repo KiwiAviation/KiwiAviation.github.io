@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Wireless telemetry (Formula SAE Electric)
+title: Power Distribution Unit Firmware (Formula SAE Electric)
 ---
 January - May 2025
