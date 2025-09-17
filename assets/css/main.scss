@@ -1,3 +1,8 @@
+/*
+This code modifys the standard theme from no-style-please. The two sets of 3
+dashes (---) allows us to import the existing theme, then all further code 
+overrides the default values.
+*/
 ---
 ---
 
@@ -15,6 +20,8 @@ $link-color: #cb4b16; // solarized orange
 html, body { background: $bg-color; }
 
 body { color: $text-color; }
+// Try Verdana, then fall back to sans-serif. Applies to all non-headings.
+// font-family: Verdana, sans-serif;
 
 // h1, h2, h3, h4, h5, h6 {
 //     // Try Georgia, then fall back to serif. Applies to all headings.
