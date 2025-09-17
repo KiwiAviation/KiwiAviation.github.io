@@ -1,4 +1,4 @@
-My personal site, built with Jekyll and GitHub Pages: [kiwiaviation.github.io](kiwiaviation.github.io)
+My personal site, built with Jekyll and GitHub Pages: [jacobkeller.me](jacobkeller.me)
 
 ---
 
