@@ -21,15 +21,14 @@ html, body { background: $bg-color; }
 
 body {
   color: $text-color;
+  // Try Verdana, then fall back to sans-serif. Applies to all non-headings.
   font-family: "Verdana", sans-serif;
 }
-// Try Verdana, then fall back to sans-serif. Applies to all non-headings.
-// font-family: Verdana, sans-serif;
 
-// h1, h2, h3, h4, h5, h6 {
-//     // Try Georgia, then fall back to serif. Applies to all headings.
-//     font-family: Georgia, serif;
-// }
+h1, h2, h3, h4, h5, h6 {
+    // Try Georgia, then fall back to serif. Applies to all headings.
+    font-family: "Georgia", serif;
+}
 
 .w { background-color: $bg-color; }
 
