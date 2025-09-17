@@ -1,8 +1,14 @@
+/*
+This code modifys the standard theme from no-style-please. The two sets of 3
+dashes (---) allows us to import the existing theme, then all further code 
+overrides the default values.
+*/
 ---
 ---
 
 @import "no-style-please";
 
+// Define colors
 $bg-color: #FDF6E3; // solarized base3
 $text-color: #657b83; // solarized base00
 $link-color: #cb4b16; // solarized orange
@@ -10,9 +16,19 @@ $link-color: #cb4b16; // solarized orange
 // Colors from solarized palette:
 // https://ethanschoonover.com/solarized/
 
+// Override colors and font
 html, body { background: $bg-color; }
 
-body { color: $text-color; }
+body { 
+    color: $text-color;
+    // Try Verdana, then fall back to sans-serif. Applies to all non-headings.
+    font-family: Verdana, sans-serif; 
+}
+
+h1, h2, h3, h4, h5, h6 {
+    // Try Georgia, then fall back to serif. Applies to all headings.
+    font-family: Georgia, serif;
+}
 
 .w { background-color: $bg-color; }
 
