@@ -19,7 +19,10 @@ $link-color: #cb4b16; // solarized orange
 // Override colors and font
 html, body { background: $bg-color; }
 
-body { color: $text-color; }
+body {
+  color: $text-color;
+  font-family: "Verdana", sans-serif;
+}
 // Try Verdana, then fall back to sans-serif. Applies to all non-headings.
 // font-family: Verdana, sans-serif;
 
