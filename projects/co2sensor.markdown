@@ -5,13 +5,16 @@ title: Carbon dioxide measurement station
 August 2024
 
 ## At a glance
+
+*Skills: electronic prototyping, soldering, Python*
+
 **What:** Designed and built a low-cost solar-powered device to measure carbon cycling.
 
 **How:** Prototyped and refined electronic design through breadboard testing and final soldered assembly. Programmed ESP32 microcontroller firmware with MicroPython.
 
 **Why:** Developed to be a low-cost open-source alternative to expensive commercial equipment used to measure carbon flux cycles in scientific research. Published project relied upon depreciated electronic components, prompting me to adapt the design.
 
-*Skills: electronic prototyping, soldering, Python*
+
 
 ## Details
 ![Final carbon dioxide sensor device soldered on a circuit board]({{site.url}}/assets/images/co2-1.jpg)

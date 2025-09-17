@@ -5,13 +5,14 @@ title: Pedestrian detection using PCA
 December 2024
 
 ## At a glance
+
+*Skills: MATLAB, computer vision, principal component analysis*
+
 **What:** Created a pedestrian detection algorithm using Principal Component Analysis (PCA).
 
 **How:** Implemented algorithm in MATLAB to determine whether a pedestrian was close by in an image with a 78% accuracy rate. Utilized PCA to reduce the dimensionality of the input images, increasing computational efficiency.
 
 **Why:** Pedestrian detection for vehicle safety features must function in resource constrained systems, making efficient algorithms crucial.
-
-*Skills: MATLAB, computer vision, principal component analysis*
 
 ## Details
 ![Research poster presenting our methodology and results]({{site.url}}/assets/images/ped-1.jpg)
