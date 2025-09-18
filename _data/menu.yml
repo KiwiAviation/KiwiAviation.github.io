@@ -1,5 +1,5 @@
 entries:
-  - title: Me
+  - title: <b>Me</b>
     entries:
       - title: email
         url: mailto:kiwiaviation1@gmail.com
@@ -9,7 +9,7 @@ entries:
         url: https://linkedin.com/in/jacob-keller-profile
       - title: resume
         url: /resume
-  - title: ⭐ Featured Projects
+  - title: <b>Featured Projects</b>
     entries:
       - title: Internship recap - Formosa EV
         url: /projects/formosa2025
@@ -17,7 +17,7 @@ entries:
         url: /projects/wireless_telemetry
       - title: Power Distribution Unit Firmware (Formula SAE Electric)
         url: /projects/pdu_firmware
-  - title: More Projects
+  - title: <b>More Projects</b>
     entries:
       - title: Pedestrian detection using PCA
         url: /projects/pedestrian_detection
