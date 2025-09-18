@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Wireless telemetry (Formula SAE Electric)
+title: Wireless Telemetry (Formula SAE Electric)
 ---
 August - December 2024

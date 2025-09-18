@@ -1,31 +1,31 @@
 entries:
   - title: <b>Me</b>
     entries:
-      - title: email
+      - title: Email
         url: mailto:kiwiaviation1@gmail.com
-      - title: github
+      - title: GitHub
         url: https://github.com/kiwiaviation/
-      - title: linkedin
+      - title: LinkedIn
         url: https://linkedin.com/in/jacob-keller-profile
-      - title: resume
+      - title: Resume
         url: /resume
   - title: <b>Featured Projects</b>
     entries:
-      - title: Internship recap - Formosa EV
+      - title: Internship Recap - Formosa EV
         url: /projects/formosa2025
-      - title: Wireless telemetry (Formula SAE Electric)
+      - title: Wireless Telemetry (Formula SAE Electric)
         url: /projects/wireless_telemetry
       - title: Power Distribution Unit Firmware (Formula SAE Electric)
         url: /projects/pdu_firmware
   - title: <b>More Projects</b>
     entries:
-      - title: Pedestrian detection using PCA
+      - title: Pedestrian Detection Using PCA
         url: /projects/pedestrian_detection
-      - title: Carbon dioxide measurment station
+      - title: Carbon Dioxide Measurment Station
         url: /projects/co2sensor
       - title: Custom LED Contoller
         url: /projects/led_controller
     # Not yet written:
-    # - title: Personal website
+    # - title: Personal Website
     #   url: /projects/website
 

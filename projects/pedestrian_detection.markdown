@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pedestrian detection using PCA
+title: Pedestrian Detection Using PCA
 ---
 December 2024
 

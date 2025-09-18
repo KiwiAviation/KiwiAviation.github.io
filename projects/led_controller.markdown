@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Custom LED controller
+title: Custom LED Controller
 ---
 August 2021
 

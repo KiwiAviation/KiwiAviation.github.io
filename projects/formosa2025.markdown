@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Internship recap - Formosa EV
+title: Internship Recap - Formosa EV
 ---
 March - August 2025
