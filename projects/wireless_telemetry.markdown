@@ -17,12 +17,12 @@ _Skills: Python, CAN bus, serial (UART), radio frequency (RF) technology_
 
 ## Details
 
-![Radios used: Holybro SiK Telemetry Radio V3]({{site.url}}/assets/images/rft-.jpg)
+![Radios used: Holybro SiK Telemetry Radio V3]({{site.url}}/assets/images/rft-1.jpg)
 _Radios used: Holybro SiK Telemetry Radio V3_
 
 <p> In my first semester at Olin College, I joined <a href="https://www.instagram.com/olinelectricmotorsports/" target="_blank">Olin Electric Motorsports</a>, a team of undergraduate engineers designing, building, and racing an electric race car for the Formula SAE Electric competition.</p>
 
-As part of the Integration sub-team, wireless telemetry was the first project I was assigned. This project had been attempted several times before on the team, but never made it on the vehicle since it was not mission-critical. The goal of the project is to allow the car to communicate with a computer-based ground station wirelessly. This enables real-time vehicle diagnostics while the car is driving, allowing the team to diagnose and resolve drive-time issues.
+As a member of the Integration sub-team, wireless telemetry was the first project I was assigned. This project had been attempted several times before on the team, but never made it on the vehicle since it was not mission-critical. The goal of the project is to allow the car to communicate with a computer-based ground station wirelessly. This enables real-time vehicle diagnostics while the car is driving, allowing the team to diagnose and resolve drive-time issues.
 
 ![Flowchart of telemetry system]({{site.url}}/assets/images/rft-2.jpg)
 _Flowchart of telemetry system_
