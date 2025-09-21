@@ -7,7 +7,7 @@ March 2025 - August 2025
 
 ## At a glance
 
-_Skills: Electric vehicle systems, design for manufacturing, CAD (OnShape), 3D-printing, welding, system integration_
+_Skills: electric vehicle systems, design for manufacturing, CAD (OnShape), 3D-printing, welding, system integration_
 
 **What:** EV Engineering Intern at Formosa EV, a California startup enabling modern and user-friendly electric vehicle conversions.
 
