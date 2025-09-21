@@ -46,7 +46,7 @@ Some highlights from my summer at Formosa EV include:
 - **Corvair Brackets:**
   Designed, fabricated, and installed a system of sheet metal brackets to mount EV conversion components in Formosa EV's demonstration vehicle, a 1965 Chevrolet Corvair. Oversaw the project from start-to-finish across eleven unique brackets, including welding the brackets with a handheld laser welder. Created brackets to secure the rear batteries, EV motor, power distribution module, and radiator.
 
-Check out my <p><a href="docs.google.com/presentation/d/1atOyfx5AOPAk49B8bUgAI0KauoSWF_P7xEC9JhzKnUw/edit?usp=sharing" target="_blank">final presentation</a></p> to see more details from my projects. Also check out <p><a href="youtube.com/watch?v=seZ2ZDxqGsc" target="_blank">this video</a></p> to see the shop!
+<p>Check out my <a href="https://docs.google.com/presentation/d/1atOyfx5AOPAk49B8bUgAI0KauoSWF_P7xEC9JhzKnUw/edit?usp=sharing" target="_blank">final presentation</a> to see more details from my projects. Also check out <a href="https://youtube.com/watch?v=seZ2ZDxqGsc" target="_blank">this video</a> to see the shop!</p>
 
 ![The Formosa EV team]({{site.url}}/assets/images/fev-5.jpg)
 _The Formosa EV California team: Zack, Justin, Indy (four-legged friend), and me_
