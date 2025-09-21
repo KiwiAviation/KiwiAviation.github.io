@@ -2,11 +2,12 @@
 layout: page
 title: TITLE
 ---
+
 DATE
 
 ## At a glance
 
-*Skills:*
+_Skills:_
 
 **What:** WHAT
 
@@ -17,3 +18,5 @@ DATE
 ## Details
 
 ## Resources
+
+[Return home]({{site.url}})

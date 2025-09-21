@@ -50,3 +50,5 @@ Check out my [final presentation](https://docs.google.com/presentation/d/1atOyfx
 
 ![The Formosa EV team]({{site.url}}/assets/images/fev-5)
 _The Formosa EV California team: Zack, Justin, Indy (four-legged friend), and me_
+
+[Return home]({{site.url}})
