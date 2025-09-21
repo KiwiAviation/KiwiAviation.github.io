@@ -20,7 +20,7 @@ _Skills: Electric vehicle systems, design for manufacturing, CAD (OnShape), 3D-p
 ![Working underneath a 1965 Chevrolet Corvair]({{site.url}}/assets/images/fev-1.jpg)
 _Working underneath Formosa EV's demonstration vehicle: a 1965 Chevrolet Corvair_
 
-This summer, I accepted an internship with Formosa EV, a newly founded startup aiming to revolutionize electric vehicle conversions. Driven by the idea that EV conversions can (and should!) be both modern and user friendly, Formosa EV is developing an advanced system of components to convert any vehicle to electric.
+This summer, I accepted an internship with <a href="formosaev.com" target="_blank">Formosa EV</a>, a newly founded startup aiming to revolutionize electric vehicle conversions. Driven by the idea that EV conversions can (and should!) be both modern and user friendly, Formosa EV is developing an advanced system of components to convert any vehicle to electric.
 
 ![Rear of the company demonstration car]({{site.url}}/assets/images/fev-2.jpg)
 _Rear of the company demonstration car, with the mount I designed and fabricated supporting the radiator_
