@@ -21,11 +21,10 @@ entries:
     entries:
       - title: Pedestrian Detection Using PCA
         url: /projects/pedestrian_detection
-      - title: Carbon Dioxide Measurment Station
+      - title: Carbon Dioxide Measurement Station
         url: /projects/co2sensor
-      - title: Custom LED Contoller
+      - title: Custom LED Controller
         url: /projects/led_controller
     # Not yet written:
     # - title: Personal Website
     #   url: /projects/website
-
