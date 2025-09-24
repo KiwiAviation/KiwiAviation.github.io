@@ -9,7 +9,7 @@ August 2024 - December 2024
 
 _Skills: Python, CAN bus, serial (UART), radio frequency (RF) technology_
 
-**What:** Designed software to enable wireless telemetry for Olin College's Formula SAE Electric vehicle.
+**What:** Designed Python software to enable wireless telemetry for Olin College's Formula SAE Electric vehicle.
 
 **How:** Wrote Python code on vehicle's onboard RaspberryPi computer to serialize messages from the CAN bus and transmit to a ground station via UART radios.
 
