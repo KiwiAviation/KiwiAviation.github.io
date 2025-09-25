@@ -17,7 +17,7 @@ _Skills: C, SPI, CAN bus, reading datasheets, SMT soldering_
 
 ## Details
 
-![Empty Power Distribution Board]({{site.url}}/assets/images/pdu-1.jpg)
+![Empty Power Distribution Board]({{site.url}}/assets/images/pdu-1.JPG)
 _Power Distribution Unit (PDU) board before populating and soldering components_
 
 <p> In my second semester at Olin College, I continued as an Integration Engineer on <a href="https://www.instagram.com/olinelectricmotorsports/" target="_blank">Olin Electric Motorsports</a>. This semester, I developed C firmware for the vehicle's Power Distribution Unit (PDU).</p>
