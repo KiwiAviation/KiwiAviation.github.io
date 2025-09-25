@@ -51,4 +51,4 @@ Some highlights from my summer at Formosa EV include:
 ![The Formosa EV team]({{site.url}}/assets/images/fev-5.jpg)
 _The Formosa EV California team: Zack, Justin, Indy (four-legged friend), and me_
 
-[Return home]({{site.url}})
+[<--- Return home]({{site.url}})

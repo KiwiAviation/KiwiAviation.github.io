@@ -26,4 +26,4 @@ Our algorithm, implemented in MATLAB, determined whether a pedestrian was close 
 
 <p><a href="{{site.url}}/assets/pdfs/pedestrian_detection_poster.pdf" target="_blank">View the full poster</a></p>
 
-[Return home]({{site.url}})
+[<--- Return home]({{site.url}})

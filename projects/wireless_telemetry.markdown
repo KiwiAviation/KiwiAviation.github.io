@@ -42,4 +42,4 @@ In my second semester at Olin Electric Motorsports, I focused on developing firm
 
 <p><a href="https://coda.io/d/_dLTyp9cQyXS/RF-Telemetry-System_suVogLCA" target="_blank">Full documentation</a></p>
 
-[Return home]({{site.url}})
+[<--- Return home]({{site.url}})

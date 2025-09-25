@@ -27,4 +27,4 @@ This project was closely inspired by the research paper, _"Fluxbots: A Method fo
 <p><a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JG007451" target="_blank">Paper</a></p>
 <p><a href="https://github.com/v-benenati/FluxbotV2/tree/84ad678105fb5c7f09ecce11b19ae58e2f09124e" target="_blank">Source code</a></p>
 
-[Return home]({{site.url}})
+[<--- Return home]({{site.url}})

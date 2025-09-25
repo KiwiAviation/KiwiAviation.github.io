@@ -19,4 +19,4 @@ _Skills:_
 
 ## Resources
 
-[Return home]({{site.url}})
+[<--- Return home]({{site.url}})

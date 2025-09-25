@@ -20,4 +20,4 @@ _Skills: electronic prototyping, soldering, C++_
 ![Final LED controller soldered on a circuit board]({{site.url}}/assets/images/led-1.jpg)
 _Final LED controller soldered on a circuit board_
 
-[Return home]({{site.url}})
+[<--- Return home]({{site.url}})

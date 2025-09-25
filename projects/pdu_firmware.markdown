@@ -52,4 +52,4 @@ Overall, I am satisfied with how the final product turned out. Our electrical sy
 <p><a href="https://miro.com/app/board/uXjVIaUf1E4=/" target="_blank">Digital Whiteboard</a> of PDU system</p>
 <p><a href="https://github.com/olin-electric-motorsports/olin-electric-motorsports/tree/jacobkeller/pdu_firmware/vehicle/mkvii/software/pdu" target="_blank"> GitHub Source Code </a></p>
 
-[Return home]({{site.url}})
+[<--- Return home]({{site.url}})
