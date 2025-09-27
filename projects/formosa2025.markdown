@@ -17,22 +17,22 @@ _Skills: electric vehicle systems, design for manufacturing, CAD (OnShape), 3D-p
 
 ## Details
 
-![Working underneath a 1965 Chevrolet Corvair]({{site.url}}/assets/images/fev-1.jpg)
+![Working underneath a 1965 Chevrolet Corvair]({{site.url}}/assets/images/fev-1.jpeg)
 _Working underneath Formosa EV's demonstration vehicle: a 1965 Chevrolet Corvair_
 
 <p>This summer, I accepted an internship with <a href="https://formosaev.com" target="_blank">Formosa EV</a>, a newly founded startup aiming to revolutionize electric vehicle conversions. Driven by the idea that EV conversions can (and should!) be both modern and user friendly, Formosa EV is developing an advanced system of components to convert any vehicle to electric.</p>
 
-![Rear of the company demonstration car]({{site.url}}/assets/images/fev-2.jpg)
+![Rear of the company demonstration car]({{site.url}}/assets/images/fev-2.jpeg)
 _Rear of the company demonstration car, with the mount I designed and fabricated supporting the radiator_
 
 In my role as an EV Engineering Intern, I widened my engineering skill set, diving into mechanical and systems engineering projects critical to Formosa EV's success. Entering this internship with an electrical/computer engineering background, I was confronted with many unfamiliar challenges, forcing me to learn and adapt on the fly.
 
-![Using the handheld laser welder]({{site.url}}/assets/images/fev-3.jpg)
+![Using the handheld laser welder]({{site.url}}/assets/images/fev-3.jpeg)
 _Using a handheld laser welder to weld sheet metal brackets_
 
 As an early member of the team (employee #6!) and Formosa EV's first intern, I had the unique opportunity to experience what goes into transforming an idea into a business. I worked directly with Formosa EV's CEO, Zack Hwang, to shape the direction of Formosa EV's first products. Along the way, I observed the connected nature of engineering to all other parts of a business. Every engineering decision is a trade-off, and it is crucial to balance time, cost, and risk. Working in a small team provided me a high level of ownership over my projects, allowing me to oversee projects from ideation, to design, to fabrication.
 
-![Collection of sheet metal parts I designed]({{site.url}}/assets/images/fev-4.jpg)
+![Collection of sheet metal parts I designed]({{site.url}}/assets/images/fev-4.jpeg)
 _Collection of sheet metal parts I designed_
 
 Some highlights from my summer at Formosa EV include:
