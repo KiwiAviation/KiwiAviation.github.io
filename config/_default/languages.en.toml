@@ -2,51 +2,25 @@ disabled = false
 locale = "en"
 label = "English"
 weight = 1
-title = "Blowfish"
+title = "Jacob Keller"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+  description = "Electrical and Computer Engineering student at Franklin W. Olin College of Engineering."
 
-# [params.author]
-#   name = "Your name here"
-#   email = "youremail@example.com"
-#   image = "img/blowfish_logo.png"
-#   imageQuality = 96
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
-#   links = [
-#     { email = "mailto:hello@your_domain.com" },
-#     { link = "https://link-to-some-website.com/" },
-#     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
-#     { apple = "https://www.apple.com" },
-#     { blogger = "https://username.blogspot.com/" },
-#     { bluesky = "https://bsky.app/profile/username" },
-#     { codepen = "https://codepen.io/username" },
-#     { dev = "https://dev.to/username" },
-#     { discord = "https://discord.gg/invitecode" },
-#     { dribbble = "https://dribbble.com/username" },
-#     { facebook = "https://facebook.com/username" },
-#     { flickr = "https://www.flickr.com/photos/username/" },
-#     { foursquare = "https://foursquare.com/username" },
-#     { github = "https://github.com/username" },
-#     { github_gist = "https://gist.github.com/username" },
-#     { gitlab = "https://gitlab.com/username" },
-#     { google = "https://www.google.com/" },
-#     { hashnode = "https://username.hashnode.dev" },
-#     { instagram = "https://instagram.com/username" },
-#     { itch-io = "https://username.itch.io" },
-#     { keybase = "https://keybase.io/username" },
-#     { keyoxide = "https://keyoxide.org/URI" },
-#     { kickstarter = "https://www.kickstarter.com/profile/username" },
-#     { lastfm = "https://lastfm.com/user/username" },
-#     { linkedin = "https://linkedin.com/in/username" },
+[params.author]
+  name = "Jacob Keller"
+  email = "kiwiaviation1@gmail.com"
+  headline = "Electrical & Computer Engineering Student"
+  bio = "Electrical and Computer Engineering student at Franklin W. Olin College of Engineering. Check out my projects and get in touch!"
+  links = [
+    { email = "mailto:kiwiaviation1@gmail.com" },
+    { github = "https://github.com/KiwiAviation" },
+    { linkedin = "https://linkedin.com/in/jacob-keller-profile" },
+  ]
 #     { mastodon = "https://mastodon.instance/@username" },
 #     { matrix = "https://matrix.to/#/URI" },
 #     { medium = "https://medium.com/username" },
