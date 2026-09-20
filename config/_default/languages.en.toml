@@ -14,7 +14,7 @@ title = "Jacob Keller"
 [params.author]
   name = "Jacob Keller"
   email = "kiwiaviation1@gmail.com"
-  headline = "Electrical and Computer Engineering Student at Olin College of Engineering. Check out my [projects](/projects/) or [resume](/resume/)!"
+  headline = "Electrical and Computer Engineering Student at Olin College of Engineering."
   bio = "Electrical and Computer Engineering Student at Olin College of Engineering."
   links = [
     { email = "mailto:kiwiaviation1@gmail.com" },
