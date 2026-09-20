@@ -4,7 +4,7 @@ date: 2025-05-01
 description: "C firmware developed from scratch for the Power Distribution Unit board managing low voltage power on Olin College's Formula SAE Electric vehicle."
 summary: "Developed C firmware from scratch for an ATmega16M1 microcontroller to manage low-voltage power distribution, CAN communication, and thermal management."
 tags: ["Embedded Systems", "C", "CAN Bus", "SPI", "Formula SAE", "Hardware"]
-featureimage: "/assets/images/pdu-1.JPG"
+featureimage: "images/pdu-1.JPG"
 aliases:
   - "/projects/pdu_firmware"
 ---

@@ -4,7 +4,7 @@ date: 2021-08-01
 description: "Designed and built a physical device and Arduino C++ firmware to control an RGB LED strip."
 summary: "Designed and built a custom physical interface device and Arduino C++ firmware to control RGB and brightness values of an LED strip."
 tags: ["Arduino", "C++", "Hardware", "Prototyping"]
-featureimage: "/assets/images/led-1.jpg"
+featureimage: "images/led-1.jpg"
 aliases:
   - "/led"
   - "/projects/led_controller"

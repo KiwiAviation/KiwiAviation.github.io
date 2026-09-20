@@ -4,7 +4,7 @@ date: 2024-08-01
 description: "Designed and built a low-cost solar-powered device to measure carbon cycling using an ESP32 and MicroPython."
 summary: "Designed and built a low-cost solar-powered device to measure carbon flux cycles in scientific research using an ESP32 and MicroPython."
 tags: ["MicroPython", "ESP32", "Hardware", "IoT", "Sensors"]
-featureimage: "/assets/images/co2-1.jpg"
+featureimage: "images/co2-1.jpg"
 aliases:
   - "/co2"
   - "/projects/co2sensor"
