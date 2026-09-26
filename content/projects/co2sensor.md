@@ -3,7 +3,7 @@ title: "Carbon Dioxide Measurement Station"
 date: 2024-08-01
 description: "Designed and built a low-cost solar-powered device to measure carbon cycling using an ESP32 and MicroPython."
 summary: "Designed and built a low-cost solar-powered device to measure carbon flux cycles in scientific research using an ESP32 and MicroPython."
-tags: ["MicroPython", "ESP32", "Hardware", "IoT", "Sensors"]
+tags: ["Personal Project", "Firmware", "Python", "Breadboard Prototyping"]
 featureimage: "images/co2-1.jpg"
 aliases:
   - "/co2"

@@ -3,7 +3,7 @@ title: "Pedestrian Detection Using PCA"
 date: 2024-12-01
 description: "Created a pedestrian detection algorithm using Principal Component Analysis (PCA) in MATLAB."
 summary: "Created a pedestrian detection algorithm in MATLAB using Principal Component Analysis (PCA) achieving a 78% accuracy rate."
-tags: ["Computer Vision", "MATLAB", "Machine Learning", "PCA"]
+tags: ["School Project"]
 featureimage: "images/ped-1.jpg"
 aliases:
   - "/ped"
