@@ -7,7 +7,8 @@
   {{ if $showReadingProgress }}
     {{ partial "reading-progress.html" . }}
   {{ end }}
-  <article class="max-w-prose mx-auto">
+  {{ $maxWidth := .Params.maxWidth | default "max-w-prose" }}
+  <article class="{{ $maxWidth }} mx-auto w-full">
     {{/* Hero */}}
     {{ if .Params.showHero | default (site.Params.article.showHero | default false) }}
       {{ $heroStyle := .Params.heroStyle }}
@@ -21,7 +22,7 @@
     {{ end }}
 
     {{/* Header */}}
-    <header id="single_header" class="mt-5 max-w-prose">
+    <header id="single_header" class="mt-5 {{ $maxWidth }} w-full">
       {{ if .Params.showBreadcrumbs | default (site.Params.article.showBreadcrumbs | default false) }}
         {{ partial "breadcrumbs.html" . }}
       {{ end }}
@@ -53,7 +54,7 @@
 
       <div class="min-w-0 min-h-0 w-full">
         {{ partial "series/series.html" . }}
-        <div class="article-content max-w-prose mb-20">
+        <div class="article-content {{ $maxWidth }} mb-20 w-full">
           {{ .Content }}
           {{ $defaultReplyByEmail := site.Params.replyByEmail }}
           {{ $replyByEmail := default $defaultReplyByEmail .Params.replyByEmail }}
@@ -86,7 +87,7 @@
     </section>
 
     {{/* Footer */}}
-    <footer class="pt-8 max-w-prose print:hidden">
+    <footer class="pt-8 {{ $maxWidth }} print:hidden w-full">
       {{ partial "article-pagination.html" . }}
       {{ partial "article-comments.html" . }}
     </footer>
