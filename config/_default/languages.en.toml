@@ -13,6 +13,7 @@ title = "Jacob Keller"
 
 [params.author]
   name = "Jacob Keller"
+  image = "images/pfp.png"
   email = "kiwiaviation1@gmail.com"
   headline = "Electrical and Computer Engineering Student at Olin College of Engineering."
   bio = "Electrical and Computer Engineering Student at Olin College of Engineering"
