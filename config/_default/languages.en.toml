@@ -13,10 +13,10 @@ title = "Jacob Keller"
 
 [params.author]
   name = "Jacob Keller"
-  image = "images/pfp.png"
+  image = "images/pfp.jpeg"
   email = "kiwiaviation1@gmail.com"
-  headline = "Electrical and Computer Engineering Student at Olin College of Engineering."
-  bio = "Electrical and Computer Engineering Student at Olin College of Engineering"
+  headline = "Passionate about **embedded systems** and **firmware** development. Electrical and Computer Engineering Student at Olin College of Engineering."
+  bio = "Passionate about **embedded systems** and **firmware** development. Electrical and Computer Engineering Student at Olin College of Engineering."
   links = [
     { email = "mailto:kiwiaviation1@gmail.com" },
     { github = "https://github.com/KiwiAviation" },
