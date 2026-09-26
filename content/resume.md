@@ -3,6 +3,10 @@ title: "Resume"
 description: "Jacob Keller's Resume"
 aliases:
   - "/resume"
+showDate: false
+showWordCount: false
+showReadingTime: false
+showPagination: false
 ---
 
 You can [download my resume as a PDF](/assets/pdfs/resume.pdf) or view it below:
