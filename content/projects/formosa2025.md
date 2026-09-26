@@ -3,7 +3,8 @@ title: "Internship Recap - Formosa EV"
 date: 2025-08-01
 description: "EV Engineering Intern at Formosa EV, designing, fabricating, and integrating electric vehicle conversion components on a 1965 Chevrolet Corvair."
 summary: "Advanced Formosa EV’s mission through mechanical design, fabrication/assembly, and system integration on a classic 1965 Chevrolet Corvair."
-tags: ["Internship", "Mechanical Design"]
+categories: ["Internship"]
+tags: ["Mechanical Design"]
 featureimage: "images/fev-1.jpeg"
 aliases:
   - "/projects/formosa2025"

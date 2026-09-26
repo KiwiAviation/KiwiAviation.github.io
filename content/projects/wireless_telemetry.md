@@ -3,7 +3,8 @@ title: "Wireless Telemetry (Formula SAE Electric)"
 date: 2024-12-15
 description: "Designed Python software to enable wireless telemetry for Olin College's Formula SAE Electric vehicle."
 summary: "Designed Python software on Raspberry Pi to serialize CAN bus telemetry and transmit live vehicle diagnostics via UART radios."
-tags: ["FSAE", "Python"]
+categories: ["FSAE"]
+tags: ["Python"]
 featureimage: "images/rft-1.jpg"
 aliases:
   - "/projects/wireless_telemetry"

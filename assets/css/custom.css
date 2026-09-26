@@ -1,0 +1,12 @@
+/* Category badges: solid Solarized blue background with white text */
+a[href*="/categories/"] span.rounded-md {
+  background-color: rgb(var(--color-primary-500)) !important;
+  border-color: rgb(var(--color-primary-500)) !important;
+  color: #ffffff !important;
+}
+
+a[href*="/categories/"]:hover span.rounded-md {
+  background-color: rgb(var(--color-primary-600)) !important;
+  border-color: rgb(var(--color-primary-600)) !important;
+  color: #ffffff !important;
+}
