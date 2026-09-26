@@ -7,7 +7,7 @@ showDate: false
 showWordCount: false
 showReadingTime: false
 showPagination: false
-maxWidth: "max-w-4xl"
+maxWidth: "max-w-full"
 ---
 
 You can [download my resume as a PDF](/assets/pdfs/resume.pdf) or view it below:
