@@ -8,7 +8,7 @@ title = "Jacob Keller"
   displayName = "EN"
   isoCode = "en"
   rtl = false
-  dateFormat = "2 January 2006"
+  dateFormat = "January 2006"
   description = "Electrical and Computer Engineering student at Franklin W. Olin College of Engineering."
 
 [params.author]
