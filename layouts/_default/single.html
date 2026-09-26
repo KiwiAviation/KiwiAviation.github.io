@@ -7,7 +7,7 @@
   {{ if $showReadingProgress }}
     {{ partial "reading-progress.html" . }}
   {{ end }}
-  {{ $maxWidth := .Params.maxWidth | default "max-w-prose" }}
+  {{ $maxWidth := .Params.maxWidth | default "max-w-full" }}
   <article class="{{ $maxWidth }} mx-auto w-full">
     {{/* Hero */}}
     {{ if .Params.showHero | default (site.Params.article.showHero | default false) }}
