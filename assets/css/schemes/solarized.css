@@ -1,0 +1,40 @@
+/* Solarized scheme for Blowfish */
+:root {
+  --color-neutral: 253, 246, 227;
+
+  /* Neutral scale based on Solarized base03..base3 */
+  --color-neutral-50: 253, 246, 227;
+  --color-neutral-100: 247, 240, 220;
+  --color-neutral-200: 238, 232, 213;
+  --color-neutral-300: 219, 213, 194;
+  --color-neutral-400: 147, 161, 161;
+  --color-neutral-500: 131, 148, 150;
+  --color-neutral-600: 101, 123, 131;
+  --color-neutral-700: 88, 110, 117;
+  --color-neutral-800: 0, 43, 54;
+  --color-neutral-900: 7, 54, 66;
+
+  /* Primary: Solarized Blue (#268bd2) */
+  --color-primary-50: 235, 245, 252;
+  --color-primary-100: 209, 230, 247;
+  --color-primary-200: 168, 206, 239;
+  --color-primary-300: 122, 180, 230;
+  --color-primary-400: 66, 154, 219;
+  --color-primary-500: 38, 139, 210;
+  --color-primary-600: 31, 117, 180;
+  --color-primary-700: 24, 94, 147;
+  --color-primary-800: 18, 72, 114;
+  --color-primary-900: 12, 50, 81;
+
+  /* Secondary: Solarized Cyan (#2aa198) */
+  --color-secondary-50: 236, 250, 249;
+  --color-secondary-100: 211, 243, 241;
+  --color-secondary-200: 171, 229, 226;
+  --color-secondary-300: 126, 213, 208;
+  --color-secondary-400: 75, 191, 184;
+  --color-secondary-500: 42, 161, 152;
+  --color-secondary-600: 34, 134, 126;
+  --color-secondary-700: 27, 107, 101;
+  --color-secondary-800: 20, 80, 75;
+  --color-secondary-900: 14, 53, 50;
+}
