@@ -17,7 +17,7 @@ _Skills: Bare-Metal C, STM32, Interrupts_
 
 * **What:** Developed bare-metal embedded C firmware for STM32 to sequence through a finite state machine of lighting modes.
 * **How:** Configured hardware and timer interrupts via memory-mapped registers for interrupt-driven state transitions.
-* **Why:** Bare-metal programming shows exactly abstraction layers do "under the hood". This project also forced me to become very familiar navigating the documentation for the STM32G4.
+* **Why:** Bare-metal programming shows exactly what abstraction layers do "under the hood". This project also forced me to become very familiar navigating the documentation for the STM32F446RE.
 
 ---
 

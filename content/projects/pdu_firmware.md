@@ -46,11 +46,11 @@ _Early whiteboard diagram of Power Distribution Unit (PDU) functions and layout_
 
 This project was equally challenging and rewarding. A number of factors made this project difficult:
 
-- The PDU project was brand new to our team, meaning that I had design all code from the ground up. Without any existing code to build off of, I had to read through the (very long!) technical datasheets to understand how to interface with the ICs on the board.
+- The PDU project was brand new to our team, meaning that I had to design all code from the ground up. Without any existing code to build off of, I had to read through the (very long!) technical datasheets to understand how to interface with the ICs on the board.
 - With over 50 unique electrical components in the bill of materials, this was the largest board our team had ever produced, in terms of both physical size and number of parts. Populating and soldering all the components was time-consuming, but provided lots of SMT soldering practice! I also learned to use an oscilloscope to identify and isolate bugs in the system.
 - This was my first time writing code in C, which meant I had to learn the C syntax, bitwise operations, and memory management principles as I went. Only having 3 months before the vehicle would compete in the national competition forced me to learn quickly!
 
-Overall, I am satisfied with how the final product turned out. Our electrical system (including the PDU) passed electrical inspection at competition, certifying that we had met all rules requirements. Some of the board's functions that communicate vehicle status require further refinement and de-bugging, but as a whole, the firmware allows the vehicle to drive safely and reliably. This project developed my skills in firmware design with C, SMT Soldering, reading technical datasheets, and de-bugging electrical systems.
+Overall, I am satisfied with how the final product turned out. Our electrical system (including the PDU) passed electrical inspection at competition, certifying that we had met all rules requirements. Some of the board's functions that communicate vehicle status require further refinement and debugging, but as a whole, the firmware allows the vehicle to drive safely and reliably. This project developed my skills in firmware design with C, SMT Soldering, reading technical datasheets, and debugging electrical systems.
 
 ---
 
