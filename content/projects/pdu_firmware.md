@@ -10,8 +10,6 @@ aliases:
   - "/projects/pdu_firmware"
 ---
 
-_January 2025 – May 2025_
-
 ## At a glance
 
 _Skills: C, SPI, CAN bus, reading datasheets, SMT soldering_

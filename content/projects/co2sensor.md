@@ -11,8 +11,6 @@ aliases:
   - "/projects/co2sensor"
 ---
 
-_August 2024_
-
 ## At a glance
 
 _Skills: electronic prototyping, soldering, Python_

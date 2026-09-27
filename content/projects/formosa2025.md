@@ -10,8 +10,6 @@ aliases:
   - "/projects/formosa2025"
 ---
 
-_March 2025 – August 2025_
-
 ## At a glance
 
 _Skills: electric vehicle systems, design for manufacturing, CAD (OnShape), 3D-printing, welding, system integration_

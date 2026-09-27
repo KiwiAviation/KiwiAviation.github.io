@@ -10,8 +10,6 @@ aliases:
   - "/projects/pedestrian_detection"
 ---
 
-_December 2024_
-
 ## At a glance
 
 _Skills: MATLAB, computer vision, principal component analysis_

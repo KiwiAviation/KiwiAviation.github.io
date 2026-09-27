@@ -10,8 +10,6 @@ aliases:
   - "/projects/wireless_telemetry"
 ---
 
-_August 2024 – December 2024_
-
 ## At a glance
 
 _Skills: Python, CAN bus, serial (UART), radio frequency (RF) technology_
