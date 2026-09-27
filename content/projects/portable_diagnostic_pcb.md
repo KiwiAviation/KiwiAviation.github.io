@@ -23,7 +23,7 @@ _Skills: KiCAD, Schematic Design, PCB Layout_
 
 ## Details
 
-![Rendering of final board design in KiCAD](/assets/images/diag-1.png)
+![Rendering of final board design in KiCAD](images/diag-1.png)
 _Rendering of final board design in KiCAD_
 
 

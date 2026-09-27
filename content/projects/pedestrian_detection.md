@@ -22,7 +22,7 @@ _Skills: MATLAB, computer vision, principal component analysis_
 
 ## Details
 
-![Research poster presenting our methodology and results](/assets/images/ped-1.jpg)
+![Research poster presenting our methodology and results](images/ped-1.jpg)
 _Research poster presenting our methodology and results_
 
 For my final project in Quantitative Engineering Analysis 1 (Linear Algebra) I worked with a partner to create a pedestrian detection algorithm using principal component analysis (PCA).

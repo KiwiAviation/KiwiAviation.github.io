@@ -23,7 +23,7 @@ _Skills: electronic prototyping, soldering, Python_
 
 ## Details
 
-![Final carbon dioxide sensor device soldered on a circuit board](/assets/images/co2-1.jpg)
+![Final carbon dioxide sensor device soldered on a circuit board](images/co2-1.jpg)
 _Final carbon dioxide sensor device soldered on a circuit board_
 
 ---

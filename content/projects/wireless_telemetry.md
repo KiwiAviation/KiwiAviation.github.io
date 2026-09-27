@@ -5,7 +5,7 @@ description: "Designed Python software to enable wireless telemetry for Olin Col
 summary: "Designed Python software on Raspberry Pi to serialize CAN bus telemetry and transmit live vehicle diagnostics via UART radios."
 categories: ["FSAE"]
 tags: ["Python"]
-featureimage: "images/rft-1.jpg"
+featureimage: "images/rft-1.avif"
 aliases:
   - "/projects/wireless_telemetry"
 ---
@@ -22,14 +22,14 @@ _Skills: Python, CAN bus, serial (UART), radio frequency (RF) technology_
 
 ## Details
 
-![Radios used: Holybro SiK Telemetry Radio V3](/assets/images/rft-1.jpg)
+![Radios used: Holybro SiK Telemetry Radio V3](images/rft-1.avif)
 _Radios used: Holybro SiK Telemetry Radio V3_
 
 In my first semester at Olin College, I joined [Olin Electric Motorsports](https://www.instagram.com/olinelectricmotorsports/), a team of undergraduate engineers designing, building, and racing an electric race car for the Formula SAE Electric competition.
 
 As a member of the Integration sub-team, wireless telemetry was the first project I was assigned. This project had been attempted several times before on the team, but never made it on the vehicle since it was not mission-critical. The goal of the project is to allow the car to communicate with a computer-based ground station wirelessly. This enables real-time vehicle diagnostics while the car is driving, allowing the team to diagnose and resolve drive-time issues.
 
-![Flowchart of telemetry system](/assets/images/rft-2.jpg)
+![Flowchart of telemetry system](images/rft-2.jpg)
 _Flowchart of telemetry system_
 
 The team had already purchased USB UART radios, so it was my job to implement the necessary software. I developed Python code for both the vehicle's onboard computer (a RaspberryPi) and the laptop ground station.
@@ -38,7 +38,7 @@ The software on the car reads all messages that are sent on the CAN bus, convert
 
 The software on the ground station runs within our team's existing CAN viewer app, so that the same app can be used for both wired and wireless diagnostics. The software reads serial data from the UART radio, deserializes the message, decodes the CAN message, and displays the message in our visual CAN dashboard.
 
-![Olin Electric Motorsports MkVII vehicle](/assets/images/rft-3.png)
+![Olin Electric Motorsports MkVII vehicle](images/rft-3.png)
 _MkVII, built by Olin Electric Motorsports in the 2024-2025 academic year_
 
 In my second semester at Olin Electric Motorsports, I focused on developing firmware for the power distribution unit, which you can read about [here](/projects/pdu_firmware).

@@ -22,14 +22,14 @@ _Skills: C, SPI, CAN bus, reading datasheets, SMT soldering_
 
 ## Details
 
-![Empty Power Distribution Board](/assets/images/pdu-1.JPG)
+![Empty Power Distribution Board](images/pdu-1.JPG)
 _Power Distribution Unit (PDU) board before populating and soldering components_
 
 In my second semester at Olin College, I continued as an Integration Engineer on [Olin Electric Motorsports](https://www.instagram.com/olinelectricmotorsports/). This semester, I developed C firmware for the vehicle's Power Distribution Unit (PDU).
 
 The PDU is responsible for managing power for the vehicle's low voltage system, visually communicating the status of the car, and controlling the cooling loop. The PCB was designed by another engineer, so I was tasked with populating and soldering all electrical components, and writing C firmware for the ATmega16M1 microcontroller.
 
-![Populated Power Distribution Board](/assets/images/pdu-2.jpg)
+![Populated Power Distribution Board](images/pdu-2.jpg)
 _Power Distribution Unit (PDU) board after populating and soldering components (plus a big dog!)_
 
 To be specific, my firmware had to accomplish the following tasks:
@@ -41,7 +41,7 @@ To be specific, my firmware had to accomplish the following tasks:
 - Control the indicator light for the high voltage system
 - Manage the cooling loop by powering the fan and controlling the coolant pump with PWM
 
-![Whiteboard sketch of Power Distribution Board](/assets/images/pdu-3.webp)
+![Whiteboard sketch of Power Distribution Board](images/pdu-3.webp)
 _Early whiteboard diagram of Power Distribution Unit (PDU) functions and layout_
 
 This project was equally challenging and rewarding. A number of factors made this project difficult:
