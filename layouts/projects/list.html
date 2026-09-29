@@ -48,11 +48,11 @@
   <section class="mt-6 mb-10 space-y-6 pb-8 border-b border-neutral-200/80 dark:border-neutral-700/80">
     {{ with site.Taxonomies.categories }}
       <div>
-        <h2 class="text-xs font-semibold tracking-wider text-neutral-500 uppercase dark:text-neutral-400 mb-2.5">
+        <h2 class="text-xs font-semibold tracking-wider text-neutral-500 uppercase dark:text-neutral-400 mb-3">
           Categories
         </h2>
         <div class="flex flex-wrap gap-2">
-          {{ range .Alphabetical }}
+          {{ range .ByCount }}
             <a
               class="not-prose inline-flex items-center gap-1.5 rounded-full border border-primary-500 bg-primary-500 px-3 py-1.5 text-sm font-medium text-white shadow-sm transition-colors hover:bg-primary-600 hover:border-primary-600"
               href="{{ .Page.RelPermalink }}">
@@ -66,11 +66,11 @@
 
     {{ with site.Taxonomies.tags }}
       <div>
-        <h2 class="text-xs font-semibold tracking-wider text-neutral-500 uppercase dark:text-neutral-400 mb-2.5">
+        <h2 class="text-xs font-semibold tracking-wider text-neutral-500 uppercase dark:text-neutral-400 mb-3">
           Tags
         </h2>
         <div class="flex flex-wrap gap-2">
-          {{ range .Alphabetical }}
+          {{ range .ByCount }}
             <a
               class="not-prose inline-flex items-center gap-1.5 rounded-full border border-neutral-200/80 bg-white/60 px-3 py-1.5 text-sm font-medium text-neutral-700 backdrop-blur-xl transition-colors hover:border-primary-400 hover:text-primary-600 dark:border-neutral-700/80 dark:bg-neutral-900/50 dark:text-neutral-200 dark:hover:text-primary-400"
               href="{{ .Page.RelPermalink }}">
