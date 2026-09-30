@@ -47,6 +47,6 @@ _The Summer 2026 intern cohort_
 
 For those that know me personally, you likely know how much this internship meant to me. I discovered Rivian as a company all the way back during the COVID-19 pandemic, and ever since starting high school, Rivian has steadfastly remained my dream company to work for. _Ask me about my biking misadventures at Rivian HQ if you want to hear more ;)_ I am immensely grateful for the opportunity to live out this dream, and I could not have asked for a more amazing summer. 
 
-Of course, I owe a huge thank-you to the people who made the experience so incredible. Thank you to my fellow Oliners for connecting me with this role and for the conversations about Olin then and now. Thank you to my mentor, manager, and co-workers for your endless support and patience. Thank you to the other interns (at RV Tech and beyond!) for all the adventures and the fast-formed, yet impossibly authentic friendships.\
+Of course, I owe a huge thank-you to the people who made the experience so incredible. Thank you to my fellow Oliners for connecting me with this role and for the conversations about Olin then and now. Thank you to my mentor, manager, and co-workers for your endless support and patience. Thank you to the other interns (at RV Tech and beyond!) for all the adventures and the fast-formed, yet impossibly authentic friendships.
 
 ---
