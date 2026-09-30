@@ -41,7 +41,7 @@ The final project cycles through three distinct modes at the press of the onboar
 
 ## Resources
 
-[GitHub Link](https://github.com/KiwiAviation/bicycle_safety_light)
+[View source on GitHub](https://github.com/KiwiAviation/bicycle_safety_light)
 
 YouTube demonstration:
 
