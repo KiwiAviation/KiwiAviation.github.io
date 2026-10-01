@@ -1,5 +1,5 @@
 ---
-title: "Power Distribution Unit Firmware (Formula SAE Electric)"
+title: "Power Distribution Unit Firmware"
 date: 2025-05-01
 description: "C firmware developed from scratch for the Power Distribution Unit board managing low voltage power on Olin College's Formula SAE Electric vehicle."
 summary: "Developed C firmware from scratch for an ATmega16M1 microcontroller to manage low-voltage power distribution, CAN communication, and thermal management."
